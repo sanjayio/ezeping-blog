@@ -1,30 +1,4 @@
-# Nextra Blog Theme
-
-This portfolio BLOG is built with **Next.js** and [Nextra](https://nextra.vercel.app/). I used the nextra blog theme to built this blog.
-
-## Feature
-
-* Home page
-* Author support
-* Tags support
-* Newsletter support
-* Comment support
-* Syntax ( code ) Highlighting
-* Header,postFooter and footer customization
-* SEO and Sitemap support.
-
-
-### Home
-
-![Home page](./public/home_page.png)
-
-### Posts page
-
-![Posts page](./public/home_posts.png)
-
-### Reading Page
-
-![Read page](./public/home_read.png)
+# ezePing Blog
 
 
 ## Configuration
